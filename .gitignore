@@ -1,3 +1,6 @@
 
 *.csv
 *.pdf
+src/variational-autoencoder.py
+src/main.py
+src/.ipynb_checkpoints/Generator-checkpoint.ipynb
